@@ -1,0 +1,8 @@
+## Packages
+/node_modules
+
+##IDEA
+/.idea
+
+## compiled js tests
+/JSFiles
